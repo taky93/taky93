@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taky93" alt="taky93" /></a> </p>
 
-- 🔭 I’m currently working on [Pycoin](https://github.com/taky93/Pycoin)
+- 🔭 I’m currently working on [foodfetch](https://github.com/taky93/foodfetch)
 
 - 🌱 I’m currently learning **Python,JS,React**
 
